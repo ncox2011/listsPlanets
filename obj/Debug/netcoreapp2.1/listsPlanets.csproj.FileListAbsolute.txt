@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\obj\Debug\netcoreapp2.1\listsPlanets.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\obj\Debug\netcoreapp2.1\listsPlanets.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\obj\Debug\netcoreapp2.1\listsPlanets.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\obj\Debug\netcoreapp2.1\listsPlanets.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\bin\Debug\netcoreapp2.1\listsPlanets.deps.json
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\bin\Debug\netcoreapp2.1\listsPlanets.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\bin\Debug\netcoreapp2.1\listsPlanets.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\bin\Debug\netcoreapp2.1\listsPlanets.dll
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\bin\Debug\netcoreapp2.1\listsPlanets.pdb
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\obj\Debug\netcoreapp2.1\listsPlanets.dll
+C:\Users\natas\workspace\csharp\exercises\listsPlanets\obj\Debug\netcoreapp2.1\listsPlanets.pdb
